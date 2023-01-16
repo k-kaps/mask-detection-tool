@@ -1,1 +1,1 @@
-# Mask-Detection-Tool-Lite
+# Mask-Detection-Tool
